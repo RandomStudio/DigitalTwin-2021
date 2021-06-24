@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Room1
+  - Room2
+  - Room3
   layers:
   - Default
   - TransparentFX
@@ -11,18 +14,18 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Room1
+  - Room2
+  - WallRoom1-2
+  - Room3
+  - WallRoom3-4
+  - Room4
+  - WallRoom4-5
+  - Room5
+  - WallRoom5-6
+  - Room6
+  - WallRoom6-7
+  - Room7
   - 
   - 
   - 
